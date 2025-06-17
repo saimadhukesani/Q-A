@@ -1,5 +1,0 @@
-langchain
-python-dotenv
-langchain_community
-langchain-core
-streamlit
